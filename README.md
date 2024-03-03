@@ -125,7 +125,7 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
 
 
       *0.Kembali
-      Jika User memilih 0.kembali maka program akan kembali kemenu utama.
+      jika user memilih 0.kembali makan akan kembali ketampilan menu utama.
 
    ![Cuplikan layar 2024-03-02 094721](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/26b34c11-9603-4ea1-86a8-7adb47853bde)
    ![Cuplikan layar 2024-03-02 084512](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/ac99b0ad-3c98-42c0-8ff0-4bbc03a0a1d2)
