@@ -60,21 +60,23 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
       *1.Tambah Barang di Awal
          Tambah barang di awal artinya barang yang akan user tambahkan akan otomatis berada di awal atau di paling atas pada list barang. Jika user memilih 1.Tambah Produk di Awal maka user diminta untuk memasukkan kode produk, nama produk, harga produk, stok produk, dan kategori produk (dengan catatan kode produk tidak boleh sama dan tidak boleh di kosongkan, harga dan stok bersifat integer).
 
-         ![Cuplikan layar 2024-03-02 093913](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/3bdb0a8c-70d1-432d-b871-91f19de0c5bb)
-         ![Cuplikan layar 2024-03-02 094154](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/494c3b84-3521-4dfb-982e-f0ecb59120c7)
+   ![Cuplikan layar 2024-03-02 093913](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/eae60162-08ed-4ebd-b446-0457cf24ed77)
+   ![Cuplikan layar 2024-03-02 094154](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/ff0eecd7-a006-42a1-ba2a-7751fa5b7c9f)
 
 
       *2.Tambah Barang di Akhir
          Tambah barang di akhir artinya barang yang akan user tambahkan akan otomatis berada di akhir atau di paling bawah pada list barang. Jika user memilih 2.Tambah Produk di Akhir maka user diminta untuk memasukkan kode produk, nama produk, harga produk, stok produk, dan kategori produ (dengan catatan kode produk tidak boleh sama dan tidak boleh di kosongkan, harga dan stok bersifat integer).
 
-         ![Cuplikan layar 2024-03-02 094208](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/ae557c45-c6e8-40ce-8d4e-057b09e730ff)
-         ![Cuplikan layar 2024-03-02 094237](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/7937cf3f-e805-4e7f-a300-c0de700fc471)
+![Cuplikan layar 2024-03-02 094208](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/dabd1b46-5a45-402e-8ddc-717c3ee4f4d8)
+![Cuplikan layar 2024-03-02 094237](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/595a3ae1-d6ea-40c0-a0b5-1a8baf2a0e81)
 
-         
+
+
       *3.Tambah Barang di anatara Node
          Tambah barang di antara node artinya barang yang akan user tambahkan akan otomatis berada di bawah kode barang yang di pilih. Jika user memilih 3.Tambah Produk di antara node maka user diminta untuk memasukkan kode produk setelah node baru di tambahkan,  kode produk yang ingin di tambahkan, nama produk, harga produk, stok produk, dan kategori produk (dengan catatan kode produk tidak boleh sama dan tidak boleh di kosongkan, harga dan stok bersifat integer).
 
-         ![Cuplikan layar 2024-03-02 094333](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/4d77dcef-3792-4e21-98dc-96c3793bd17e)
+![Cuplikan layar 2024-03-02 094333](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/3d0a451e-2a32-4e01-aa4b-1ff03035720e)
+
 
       *0.Kembali
       Jika User memilih 0.kembali maka program akan kembali kemenu utama.
