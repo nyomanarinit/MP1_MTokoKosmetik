@@ -67,22 +67,22 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
       *2.Tambah Barang di Akhir
          Tambah barang di akhir artinya barang yang akan user tambahkan akan otomatis berada di akhir atau di paling bawah pada list barang. Jika user memilih 2.Tambah Produk di Akhir maka user diminta untuk memasukkan kode produk, nama produk, harga produk, stok produk, dan kategori produ (dengan catatan kode produk tidak boleh sama dan tidak boleh di kosongkan, harga dan stok bersifat integer).
 
-![Cuplikan layar 2024-03-02 094208](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/dabd1b46-5a45-402e-8ddc-717c3ee4f4d8)
-![Cuplikan layar 2024-03-02 094237](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/595a3ae1-d6ea-40c0-a0b5-1a8baf2a0e81)
+   ![Cuplikan layar 2024-03-02 094208](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/dabd1b46-5a45-402e-8ddc-717c3ee4f4d8)
+   ![Cuplikan layar 2024-03-02 094237](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/595a3ae1-d6ea-40c0-a0b5-1a8baf2a0e81)
 
 
 
       *3.Tambah Barang di anatara Node
          Tambah barang di antara node artinya barang yang akan user tambahkan akan otomatis berada di bawah kode barang yang di pilih. Jika user memilih 3.Tambah Produk di antara node maka user diminta untuk memasukkan kode produk setelah node baru di tambahkan,  kode produk yang ingin di tambahkan, nama produk, harga produk, stok produk, dan kategori produk (dengan catatan kode produk tidak boleh sama dan tidak boleh di kosongkan, harga dan stok bersifat integer).
 
-![Cuplikan layar 2024-03-02 094333](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/3d0a451e-2a32-4e01-aa4b-1ff03035720e)
+   ![Cuplikan layar 2024-03-02 094333](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/3d0a451e-2a32-4e01-aa4b-1ff03035720e)
 
 
       *0.Kembali
       Jika User memilih 0.kembali maka program akan kembali kemenu utama
 
-![Cuplikan layar 2024-03-02 094354](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/76dc538d-f5e3-4883-9efa-dc8a6e4dcbfe)
-![Cuplikan layar 2024-03-02 084512](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/a05b2206-e0f4-416e-b07b-3f0d49c79070)
+   ![Cuplikan layar 2024-03-02 094354](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/76dc538d-f5e3-4883-9efa-dc8a6e4dcbfe)
+   ![Cuplikan layar 2024-03-02 084512](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/a05b2206-e0f4-416e-b07b-3f0d49c79070)
 
 
 
@@ -102,7 +102,7 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
    -4.Delete Produk
       Jika user memilih4.Delet Produk maka user akan di tampilkan 4 menu delete yaitu 1.Delete Produk di Awal, 2.Delete Produk di Akhir,3.Delete Produk di antara node, dan 0.Kembali
 
-![Cuplikan layar 2024-03-02 094540](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/1a4e9f07-4457-4dca-b070-58f16231c985)
+   ![Cuplikan layar 2024-03-02 094540](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/1a4e9f07-4457-4dca-b070-58f16231c985)
 
 
       *1.Delete Produk di Awal.
@@ -114,7 +114,7 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
       *2. Delete Produk di Akhir.
       ini artinya jika user memilih 2.Delete Produk di Akhir maka kode produk paling bawah atau paling terkahir akan terhapus tanpa user memasukkan kod produknya.
 
-   ![Cuplikan layar 2024-03-02 094641](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/2c708128-ab5e-4b61-abb1-3fbba4d795b5)
+      ![Cuplikan layar 2024-03-02 094641](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/2c708128-ab5e-4b61-abb1-3fbba4d795b5)
 
 
      *3.Delete Produk di antara Node
@@ -127,15 +127,15 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
       *0.Kembali
       jika user memilih 0.kembali makan akan kembali ketampilan menu utama.
 
-   ![Cuplikan layar 2024-03-02 094721](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/26b34c11-9603-4ea1-86a8-7adb47853bde)
-   ![Cuplikan layar 2024-03-02 084512](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/ac99b0ad-3c98-42c0-8ff0-4bbc03a0a1d2)
+      ![Cuplikan layar 2024-03-02 094721](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/26b34c11-9603-4ea1-86a8-7adb47853bde)
+      ![Cuplikan layar 2024-03-02 084512](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/ac99b0ad-3c98-42c0-8ff0-4bbc03a0a1d2)
 
 
 
 3. Tampilan Akhir Program
    
-      -0.Keluar
-      Jika User memilih 0.keluar maka program akan berhenti.
+   -0.Keluar
+   Jika User memilih 0.keluar maka program akan berhenti.
 
 ![Cuplikan layar 2024-03-02 094731](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/9f4bdf77-0b67-4449-8c7b-d3ccdb279af8)
 ![Cuplikan layar 2024-03-02 094740](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/7e823d3e-427c-421f-80a1-6b0f3d63e68f)
