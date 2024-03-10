@@ -142,3 +142,67 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
 
 ![Cuplikan layar 2024-03-02 094731](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/9f4bdf77-0b67-4449-8c7b-d3ccdb279af8)
 ![Cuplikan layar 2024-03-02 094740](https://github.com/nyomanarinit/MP1_MTokoKosmetik/assets/145880551/7e823d3e-427c-421f-80a1-6b0f3d63e68f)
+
+
+## MP3_MTokoKosmetik
+~ Tampilan Tambahan Sorting Produk
+
+![Cuplikan layar 2024-03-10 094252](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/34ff975c-ed80-4ead-a36d-e4ff58d69971)
+
+->Tampilan Menu awal ditambahkan pilihan 5. Sorting.
+
+![Cuplikan layar 2024-03-10 094300](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/ac668d94-3075-46b1-8d37-091ab2d02ae2)
+
+![Cuplikan layar 2024-03-10 094314](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/324c94e7-2b5a-4a67-89ba-d2cdd60bb231)
+
+jika memilih 5.sorting maka akan ditampilkan 3 pilihan yaitu 1.Sorting berdasarkan kode, 2.shorting berdasarkan nama dan 0. Kembali ke menu utama.
+
+
+->Tampilan Shorting
+
+![Cuplikan layar 2024-03-10 094321](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/8810cbf6-4670-46b9-aae4-4fe01d6018e3)
+
+![Cuplikan layar 2024-03-10 094343](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/add1e1b3-70f9-496a-ad4b-9184e3af3537)
+
+![Cuplikan layar 2024-03-10 094402](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/0da6e870-2f5f-43d6-a74e-432b881b2dcf)
+
+
+tampilan sorting berdasarkan kode barang setelah memilih 1.soting berdasarkan kode barang user dapat memilih apakah ingin di sorting secara ascending atau discanding jika ascanding ketikan asc jika discanding ketikan desc.
+
+
+![Cuplikan layar 2024-03-10 094412](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/efec654b-1952-453d-a5a8-dbd9fff224da)
+
+![Cuplikan layar 2024-03-10 094426](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/e39b4813-caf9-4241-9cc3-f02373b77b9b)
+
+![Cuplikan layar 2024-03-10 094438](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/5cae30f6-b785-49ce-a649-51195bd84975)
+
+
+tampilan sorting berdarakan nama jika user memilih sorting berdasarkan nama maka user di minta untuk memilih ingin sorting barang atau produk secara ascending atau discanding jika ascanding ketikan asc jika discanding ketikan desc.
+
+->Tampilan kembali kemenu utama
+
+![Cuplikan layar 2024-03-10 095230](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/da52d6fc-da46-4242-93d1-ac43a69998b6)
+
+![Cuplikan layar 2024-03-10 095220](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/5c50e745-a645-421e-b827-5cb98ae82fe5)
+
+dan jika user memilih 0.kembali kemenu utama maka program akan menampilkan kembali kemenu utama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
