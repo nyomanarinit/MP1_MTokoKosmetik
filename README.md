@@ -202,7 +202,6 @@ dan jika user memilih 0.kembali kemenu utama maka program akan menampilkan kemba
 
 ![Cuplikan layar 2024-03-17 094208](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/a5533aa1-6879-4504-936e-2ccbf8c3def1)
 ![Cuplikan layar 2024-03-17 094221](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/9482edec-78b6-4c98-875b-31d495d15217)
-![Cuplikan layar 2024-03-17 094231](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/824b12a1-89e7-4954-8e12-594f9be50874)
 ![Cuplikan layar 2024-03-17 094243](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/cce51174-32fd-4dcc-a3f4-66ed72fbe878)
 ![Cuplikan layar 2024-03-17 094256](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/d80fe0b9-3d71-461a-8b48-eaf759addd77)
 
