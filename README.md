@@ -145,6 +145,8 @@ Program ini merupakan aplikasi manajemen produk kosmetik sederhana dengan menggu
 
 
 ## MP3_MTokoKosmetik
+### Penjelasan dan Output Program.
+
 ~ Tampilan Tambahan Sorting Produk
 
 ![Cuplikan layar 2024-03-10 094252](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/34ff975c-ed80-4ead-a36d-e4ff58d69971)
@@ -187,16 +189,30 @@ tampilan sorting berdarakan nama jika user memilih sorting berdasarkan nama maka
 
 dan jika user memilih 0.kembali kemenu utama maka program akan menampilkan kembali kemenu utama.
 
+## MP4_MTokoKosmetik
+### Penjelasan dan Output Program.
+
+1. Tampilan Menu Utama
+   pada tampilan utama ini saya menambahkan searching. searching saya letakkan setelah melakukan shorting 
+
+![Cuplikan layar 2024-03-17 094141](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/1d628983-b5e5-4076-bac6-19b7e9853be5)
 
 
+2. Tampilan Searching
 
+![Cuplikan layar 2024-03-17 094208](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/a5533aa1-6879-4504-936e-2ccbf8c3def1)
+![Cuplikan layar 2024-03-17 094221](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/9482edec-78b6-4c98-875b-31d495d15217)
+![Cuplikan layar 2024-03-17 094231](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/824b12a1-89e7-4954-8e12-594f9be50874)
+![Cuplikan layar 2024-03-17 094243](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/cce51174-32fd-4dcc-a3f4-66ed72fbe878)
+![Cuplikan layar 2024-03-17 094256](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/d80fe0b9-3d71-461a-8b48-eaf759addd77)
 
+user diminta untuk melakukan shorting dulu setelah itu bisa melakukan searching, di sini saya menerapkan searching dengan metode jump search.
 
+3. Tampilan Kembali
+jika user memilih 0. maka akan kembali ke menu shorting
 
-
-
-
-
+![Cuplikan layar 2024-03-17 094310](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/821465e5-a895-4dad-958e-c6e5e46be9c0)
+![Cuplikan layar 2024-03-17 094315](https://github.com/nyomanarinit/MP_MTokoKosmetik/assets/145880551/9beb6ca9-8dbd-4b01-b23f-c52792d1c50f)
 
 
 
